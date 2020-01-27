@@ -1,0 +1,10 @@
+.env
+.DS_Store
+node_modules
+package-lock.json
+yarn.lock
+cookies/*
+output/*
+db/dbimagenes.sqlite3
+downloads/*
+*.txt
