@@ -1,0 +1,24 @@
+{
+  "name": "generatecomments",
+  "version": "1.0.0",
+  "description": "Generate comments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaiowa/generatecomments.git"
+  },
+  "author": "kaiowa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaiowa/generatecomments/issues"
+  },
+  "homepage": "https://github.com/kaiowa/generatecomments#readme",
+  "dependencies": {
+    "line-reader": "^0.4.0",
+    "node-datetime": "^2.1.2",
+    "readline": "^1.3.0"
+  }
+}
